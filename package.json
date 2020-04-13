@@ -19,7 +19,7 @@
     "coupon-code": "^0.4.4",
     "create-react-class": "^15.6.2",
     "fabric": "^1.7.20",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jquery-mousewheel": "^3.1.13",
     "jquery-ui": "^1.12.1",
     "jquery-validation": "^1.15.1",
