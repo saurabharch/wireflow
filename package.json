@@ -17,7 +17,7 @@
     "bootstrap": "^3.3.7",
     "country-city": "^1.0.0",
     "coupon-code": "^0.4.4",
-    "create-react-class": "^15.6.2",
+    "create-react-class": "^15.7.0",
     "fabric": "^1.7.20",
     "jquery": "^3.2.1",
     "jquery-mousewheel": "^3.1.13",
