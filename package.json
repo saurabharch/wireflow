@@ -22,7 +22,7 @@
     "jquery": "^3.2.1",
     "jquery-mousewheel": "^3.1.13",
     "jquery-ui": "^1.12.1",
-    "jquery-validation": "^1.15.1",
+    "jquery-validation": "^1.19.3",
     "jsdom": "^11.4.0",
     "materialize-css": "^0.100.2",
     "meteor-node-stubs": "^0.3.2",
